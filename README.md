@@ -1,4 +1,4 @@
-# 📊 Make vs Buy – Supplier Cost Optimization Dashboard  
+# 📊 Supply Chain Analytics Dashboard  
 
 ## 🚀 Project Overview  
 
